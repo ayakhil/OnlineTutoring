@@ -1,0 +1,2 @@
+# OnlineTutoring
+A Student online tutoring app is the based on IOS, which helps the student to help other or getting help from others at any time by queries and responses .I had completely developed this project in XCode with Swift. I used UI view controller for                 presenting the views, Tab Bar Controller to navigate between different views, Navigation Controller to Navigate between views, Split view, Search Bar, Web view, Mail. ER-Model of MySQL Database with views and with help of PHP I used connected XCode with databases
